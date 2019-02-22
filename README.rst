@@ -1,6 +1,10 @@
 Remotsy python library |Build Status| |Codacy Badge|
 ====================================================
 
+.. image:: https://api.codacy.com/project/badge/Grade/52690ccba78a4042ae909eb53a7faa15
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/app/jorgecis/RemotsyLib?utm_source=github.com&utm_medium=referral&utm_content=jorgecis/RemotsyLib&utm_campaign=Badge_Grade_Dashboard
+
 `Remotsy <https://www.remotsy.com>`_ is an infrared blaster device, is cloud controlled,
 this a Python library to control the Remotsy device via Rest API.
 
